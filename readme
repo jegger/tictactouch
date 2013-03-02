@@ -1,0 +1,6 @@
+Dominique Burnand
+
+This is a project which is goal is:
+- Connection between Siemens S7 PLC and PC (LINUX) over python
+- GUI for machinery interface with kivy
+
